@@ -1,0 +1,4 @@
+ball
+11 players
+ground
+two goal posts
